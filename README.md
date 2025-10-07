@@ -4,6 +4,7 @@ Technologies:
   Frontend : React
   Backend : Node & Express
   Database : mongodb
+  Report generation: simple HTML to PDF
 Functionalities:
   Quick Simulation
   Scenario Management
